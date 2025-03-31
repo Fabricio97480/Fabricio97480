@@ -16,7 +16,7 @@ I'm open to collaborating on open-source projects and web development initiative
 
 ## 📫 How to Reach Me
 - Email: bryan199766.bf@gmail.com  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+- LinkedIn: https://www.linkedin.com/in/bryan-llivi-360675bb/ 
 - GitHub: [Fabricio97480](https://github.com/Fabricio97480)
 
 ## 😄 Pronouns
